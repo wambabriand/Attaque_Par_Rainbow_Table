@@ -13,6 +13,14 @@ Cette application contient une implémentation d'une attaque par rainbow table.
 
 Une Rainbow Table est deja créée avec un nombre de p=1000 fonctions de réduction. Son utilisation est donc instantanée. Cependant l'application permet de crée une Rainbow Table personnalisée à partir d'une base de donnée de mot de passe à l'aide de ./create_rainbowTable.
 
+Notre Rainbow Table se trouve dans le dossier data_base.
+
+Avant d'utiliser le Makefile.txt il faudra supprimer l'extention (.txt)
+
+ici il ya le file contenant nous mots de pass, car Github n accepte pas les fichier de plus 1 MB
+
+https://drive.google.com/drive/folders/1SF6o6WiflKsW_xnrXt22q1EU9owsf4WS
+
 *******  Casser un mot de passe en utilisant la rainbow table existante *******
 
 placer vous dans le dossier cannesso_wamba, ouvrir un terminal, et lancer l'application avec la commande :
