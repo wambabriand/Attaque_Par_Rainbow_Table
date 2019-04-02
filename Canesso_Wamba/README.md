@@ -1,10 +1,7 @@
-/*
-################################################
-## Fait par Angelo Canesso et Briand Wamba    ##
-## Ce fichier sera améliorer dans le temps    ##
-##  Il est totalement libre d'utilisation     ##
-################################################
-*/
+
+# Fait par Angelo Canesso et Briand Wamba    
+
+#### Ce fichier sera améliorer dans le temps 
 
 
 L'application est libre d'utilisation et l'utilisateur est responsable de l'usage des ressources.
