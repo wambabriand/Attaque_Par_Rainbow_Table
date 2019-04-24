@@ -2,7 +2,6 @@
 ## Fait par Angelo Cannesso et Briand Wamba   ##
 ## Ce Makefile sera optimiser avec le temps   ##
 ##  Il est totalement d'utilisation           ##
-##   	Prof. Ahmed Roshenid                  ##
 ##   	Group Télecom Paristech               ##
 ################################################
 
